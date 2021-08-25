@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="65mm"
+   height="65mm"
+   viewBox="0 0 65 65"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="trilloop-newangles.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-nodes="false"
+     units="mm"
+     inkscape:zoom="2.5600281"
+     inkscape:cx="147.26401"
+     inkscape:cy="100.38952"
+     inkscape:window-width="1959"
+     inkscape:window-height="1200"
+     inkscape:window-x="1044"
+     inkscape:window-y="98"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Trillium">
+    <g
+       inkscape:label="Layer 1"
+       inkscape:groupmode="layer"
+       id="layer1">
+      <path
+         id="path31-8"
+         style="fill:#4f2683;fill-opacity:0.46666667;stroke-width:0.337111"
+         d="M 9.1632614,16.092321 A 20.017385,17.501066 15 0 0 3.217,18.784494 20.017385,17.501066 15 0 0 16.860281,29.687574 20.017385,17.501066 15 0 0 29.832374,29.238707 20.017385,17.501066 75 0 0 29.387456,42.201519 20.017385,17.501066 75 0 0 40.290141,55.844631 20.017385,17.501066 75 0 0 42.91009,38.57814 20.017385,17.501066 75 0 0 36.04414,27.575339 17.501066,20.017385 45 0 0 47.492486,21.479699 17.501066,20.017385 45 0 0 53.856375,5.215715 17.501066,20.017385 45 0 0 37.592779,11.579759 17.501066,20.017385 45 0 0 31.494934,23.040437 20.017385,17.501066 15 0 0 20.483209,16.164254 20.017385,17.501066 15 0 0 9.1632614,16.092321 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Layer 2">
+      <path
+         id="path31-1"
+         style="fill:#4f2683;fill-opacity:0.73333335;stroke-width:0.337111"
+         d="M 10.76379,13.107071 A 20.017385,17.501066 22.5 0 0 4.517,15.000069 20.017385,17.501066 22.5 0 0 16.620425,27.590677 20.017385,17.501066 22.5 0 0 29.54013,28.838847 20.017385,17.501066 82.5 0 0 27.40703,41.632687 20.017385,17.501066 82.5 0 0 36.435659,56.582166 20.017385,17.501066 82.5 0 0 41.286923,39.805363 20.017385,17.501066 82.5 0 0 35.915866,28.000509 17.501066,20.017385 52.5 0 0 48.061911,23.451327 17.501066,20.017385 52.5 0 0 56.494231,8.157137 17.501066,20.017385 52.5 0 0 39.539097,12.34391 17.501066,20.017385 52.5 0 0 31.997502,22.910613 20.017385,17.501066 22.5 0 0 21.977505,14.655938 20.017385,17.501066 22.5 0 0 10.76379,13.107071 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Layer 3">
+      <path
+         id="path31"
+         style="fill:#4f2683;fill-opacity:1;stroke-width:0.337111"
+         d="M 12.727645,10.383212 A 20.017385,17.501066 30 0 0 6.2872117,11.444645 20.017385,17.501066 30 0 0 16.643685,25.507353 20.017385,17.501066 30 0 0 29.289941,28.431205 17.501066,20.017385 0 0 0 25.50516,40.837166 17.501066,20.017385 0 0 0 32.505248,56.837224 17.501066,20.017385 0 0 0 39.504821,40.837166 17.501066,20.017385 0 0 0 35.720557,28.432239 17.501066,20.017385 60 0 0 48.356478,25.507353 17.501066,20.017385 60 0 0 58.712952,11.444645 17.501066,20.017385 60 0 0 41.356388,13.382512 17.501066,20.017385 60 0 0 32.500081,22.874439 20.017385,17.501066 30 0 0 23.643258,13.382512 20.017385,17.501066 30 0 0 12.727645,10.383212 Z" />
+    </g>
+  </g>
+</svg>
