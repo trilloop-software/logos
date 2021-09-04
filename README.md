@@ -13,6 +13,7 @@ This repository contains the SVGs of the logo and wordmark for the project (loca
 
 `trilloop-logo.svg` contains the logo with transparency
 - `-opt` is an optimized SVG and therefore has a slightly smaller filesize
+- `-purpbg` is for use with Western's purple (`#4F2683`) as a background
 
 `trilloop-wordmark-path-*.svg` contains the wordmark with transparency
 - `dark` has white text in the wordmark for use on dark backgrounds
