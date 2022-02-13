@@ -1,4 +1,4 @@
-# ![trilloop](./final/trilloop-full-path-light.svg)
+# ![trilloop](./final/trilloop-full-path-light.svg#gh-light-mode-only)![trilloop](./final/trilloop-full-path-dark.svg#gh-dark-mode-only)
 This repository contains the SVGs of the logo and wordmark for the project (located in the *'final'* folder).  All SVGs were created with [Inkscape](https://inkscape.org/).
 
 `trilloop-full-path-*.svg` contains both the logo and wordmark (beside the logo) with transparency
