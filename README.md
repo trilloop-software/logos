@@ -15,8 +15,12 @@ This repository contains the SVGs of the logo and wordmark for the project (loca
 - `-opt` is an optimized SVG and therefore has a slightly smaller filesize
 - `-purpbg` is for use with Western's purple (`#4F2683`) as a background
 
+`trilloop-wordmark-long-path-*.svg` contains the wordmark all on one line with transparency
+- `dark` has white text in the wordmark for use on dark backgrounds
+- `light` has black text in the wordmark for use on light backgrounds
+
 `trilloop-wordmark-path-*.svg` contains the wordmark with transparency
 - `dark` has white text in the wordmark for use on dark backgrounds
 - `light` has black text in the wordmark for use on light backgrounds
 
-`trilloop-full-raw.svg` contains both the logo badge and wordmark with transparency but with *'TRILLIUM HYPERLOOP'* as editable text.  The font [Source Sans Pro](https://www.fontsquirrel.com/fonts/source-sans-pro) is required to view and edit this file to ensure proper formatting.
+`trilloop-full-raw.svg` contains both the logo and wordmark with transparency but with *'TRILLIUM HYPERLOOP'* as editable text.  The font [Source Sans Pro](https://www.fontsquirrel.com/fonts/source-sans-pro) is required to view and edit this file to ensure proper formatting.
